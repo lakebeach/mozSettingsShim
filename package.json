@@ -1,0 +1,27 @@
+{
+  "name": "mozsettings-shim",
+  "description": "A shim for mozSettings",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lakebeach/mozSettingsShim.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lakebeach/mozSettingsShim/issues"
+  },
+  "homepage": "https://github.com/lakebeach/mozSettingsShim",
+  "authors": [
+    "lakebeach"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/lakebeach/mozSettingsShim/blob/master/LICENSE"
+    }
+  ],
+  "main": "./src/mozsettings-shim.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

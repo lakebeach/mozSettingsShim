@@ -1,0 +1,26 @@
+{
+  "name": "mozsettings-shim",
+  "version": "0.1.0",
+  "homepage": "https://github.com/lakebeach/mozSettingsShim",
+  "authors": [
+    "lakebeach"
+  ],
+  "description": "A shim for mozSettings",
+  "main": "./src/mozsettings-shim.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "mozSettings"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
